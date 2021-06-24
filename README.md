@@ -1,4 +1,4 @@
-# MBT CME Micro Bitcoin Futures Trading Challenge
+# CME Micro Bitcoin (MBT) Futures Trading Challenge
 
 <b>Tools/Languages:</b> Python, ThinkScript
 
