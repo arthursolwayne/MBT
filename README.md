@@ -1,5 +1,4 @@
-# MBT
-<h1>CME Micro Bitcoin Futures Trading Challenge</h1>
+# MBT CME Micro Bitcoin Futures Trading Challenge
 
 <b>Tools/Languages:</b> Python, ThinkScript
 
